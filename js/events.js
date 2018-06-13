@@ -10,6 +10,12 @@ function frameIt(){
   })
 }
 
+function pressIt(){
+  $('#typing').on('keydown', function(key){
+    if()
+  })
+}
+
 $(document).ready(function(){
 
 // call functions here
